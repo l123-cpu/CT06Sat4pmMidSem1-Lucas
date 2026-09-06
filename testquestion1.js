@@ -6,4 +6,5 @@ function draw(){
     fill(0);
     stroke(255,0,0)
     strokeWeight(10);
+    trian
 }
