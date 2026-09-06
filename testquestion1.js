@@ -7,15 +7,15 @@ function draw(){
 fill(0);
 stroke(255,0,0);//change outline color
 strokeWeight(10);
-//triangle 6 parameters
+
 triangle(260,240,300,160,340,240);
-//circle 3 parameter x,y,d
+
 circle(150,200,80);
-//square
+
 rect(410,160,80,80);
 }
 
-//draw circle with forloop
+
 function setup(){
 createCanvas(600,400);
 background(220);
